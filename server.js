@@ -1,7 +1,7 @@
 // import a module used later
 const path = require('path')
 
-const DEFAULT_PORT = 3377
+const DEFAULT_PORT = 3378
 const WEBSITE_FOLDER = 'website'
 
 const express = require('express')
